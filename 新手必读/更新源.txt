@@ -1,0 +1,6 @@
+Ê÷İ®ÅÉ¸üĞÂÔ´
+deb http://mirror.tuna.tsinghua.edu.cn/raspbian/raspbian/ stretch main contrib non-free rpi
+deb-src http://mirrors.tuna/tsinghua.edu.cn/raspbian/raspbian/ stretch main contrib non-free rpi
+
+deb http://mirror.tuna.tsinghua.edu.cn/raspberrypi/ stretch main ui
+deb-src http://mirror.tuna.tsinghua.edu.cn/raspberrypi/ stretch main ui
